@@ -41,8 +41,8 @@ This project provides a comprehensive overview of the global COVID-19 pandemic u
 
 ## 📷 Sample Dashboards
 
-![Dashboard Overview](visuals/dashboard1.png)
-![Country Trends](visuals/dashboard2.png)
+![Global COVID-19 Overview](https://github.com/GajananShenvi/Data-Analytics-Projects/blob/15e1789d35f38ace1846b85796a31a732a425ed2/Global%20COVID-19%20Situation%20Overview/Screenshot%202025-05-28%20011659.png)
+![Country Level Statics](https://github.com/GajananShenvi/Data-Analytics-Projects/blob/15e1789d35f38ace1846b85796a31a732a425ed2/Global%20COVID-19%20Situation%20Overview/Screenshot%202025-05-28%20011713.png)
 
 ## ✅ Outcomes
 
